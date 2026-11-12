@@ -1,0 +1,16 @@
+what,url,http_status,qr_file,qr_decode_check
+"Live demo: Flight Recorder (synthetic data, runs in the browser)",https://nathanplatteruser.github.io/dama-rocky-mountain-2026/flight-recorder/?utm_source=hacc-isu&utm_medium=qr&utm_campaign=iron-man-2026-11-11,200,qr-demo-hacc-isu.png,match
+Open repo: four-gate labs and demo source (MIT),https://github.com/nathanplatteruser/dama-rocky-mountain-2026?utm_source=hacc-isu&utm_medium=qr&utm_campaign=iron-man-2026-11-11,200,qr-repo-hacc-isu.png,match
+"Four Gateways kit page: slides, take-home PDFs, demo",https://nathanplatteruser.github.io/dama-rocky-mountain-2026/?utm_source=hacc-isu&utm_medium=qr&utm_campaign=iron-man-2026-11-11,200,qr-kit-page-hacc-isu.png,match
+Nathan on LinkedIn,https://www.linkedin.com/in/nathan-platter?utm_source=hacc-isu&utm_medium=qr&utm_campaign=iron-man-2026-11-11,200,qr-linkedin-hacc-isu.png,match
+Book time with Nathan (Calendly),https://calendly.com/nathanplatter?utm_source=hacc-isu&utm_medium=qr&utm_campaign=iron-man-2026-11-11,200,qr-calendly-hacc-isu.png,match
+GitHub profile,https://github.com/nathanplatteruser,200,(text only),
+Labs folder (Python gateways),https://github.com/nathanplatteruser/dama-rocky-mountain-2026/tree/main/dama-2026,200,(text only),
+Demo source folder,https://github.com/nathanplatteruser/dama-rocky-mountain-2026/tree/main/flight-recorder,200,(text only),
+Permission card template,https://github.com/nathanplatteruser/dama-rocky-mountain-2026/blob/main/flight-recorder/takehomes/permission-card-template.md,200,(text only),
+Curveball checklist,https://github.com/nathanplatteruser/dama-rocky-mountain-2026/blob/main/flight-recorder/takehomes/curveball-checklist.md,200,(text only),
+Pilot-to-production checklist,https://github.com/nathanplatteruser/dama-rocky-mountain-2026/blob/main/flight-recorder/takehomes/pilot-to-production-checklist.md,200,(text only),
+Setup guide (PDF),https://github.com/nathanplatteruser/dama-rocky-mountain-2026/blob/main/docs/Four-Gateways-Setup-Guide.pdf,200,(text only),
+OWASP LLM01:2025 Prompt Injection,https://genai.owasp.org/llmrisk/llm01-prompt-injection/,200,(text only),
+OWASP LLM06:2025 Excessive Agency,https://genai.owasp.org/llmrisk/llm062025-excessive-agency/,200,(text only),
+OWASP Top 10 for LLM Applications,https://genai.owasp.org/llm-top-10/,200,(text only),
